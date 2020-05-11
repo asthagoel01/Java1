@@ -5,6 +5,6 @@ public class Hello {
 	{
 		System.out.print("Hello World");
 		System.out.print("Practicing Git");
-		System.out.print("Practicing Git");
+		System.out.print("Uploaded on git");
 	}
 }
